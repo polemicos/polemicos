@@ -7,7 +7,8 @@
 I’m a software engineer dedicated to developing responsive, well-rounded products, driving impactful solutions through seamless global collaboration, and embracing new experiences and technologies.
 Always curious about technology related stuff, music, videogames and people.
 
-[![LinkedIn](https://img.shields.io/badge/-mrakovich-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/61kitarami/)](https://www.linkedin.com/in/61kitarami/) [![Gmail](https://img.shields.io/badge/-mrakovich.job@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:mrakovich.job@gmail.com)](mailto:mrakovich.job@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-mrakovich-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/61kitarami/)
+[![Gmail](https://img.shields.io/badge/-mrakovich.job@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:mrakovich.job@gmail.com)](mailto:mrakovich.job@gmail.com)
 
 
 ### Technologies
