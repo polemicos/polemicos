@@ -17,4 +17,4 @@ Always curious about technology related stuff, music, videogames and people.
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat&logo=graphql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
